@@ -1,0 +1,5 @@
+{
+  "name": "Adolat AI - Legal Assistant for Uzbekistan",
+  "description": "Advanced multilingual AI assistant for legal document analysis, contract risk detection, and legal document generation based on Uzbekistan laws.",
+  "requestFramePermissions": ["microphone"]
+}
